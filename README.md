@@ -1,9 +1,14 @@
 
 # phantomjs-bin-macosx
 
-https://bitbucket.org/ariya/phantomjs/downloads/
+このパッケージは、PhantomJSを手軽に利用できるようにするためのnpmパッケージです。
+Mac OS X向けにビルドされたバイナリが含まれています。
+
+このパッケージには、以下のURLより取得したバイナリが含まれています。
 
 https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.1.1-macosx.zip
+
+ZIPファイル、実行ファイルのSHA1ハッシュ値は以下の通りです。
 
 ```
 c6e1a16bb9e89ce1e392a4768e99177797c93350  phantomjs-2.1.1-macosx.zip
